@@ -1,0 +1,49 @@
+Plant ID,Plant Name,Common Name (India),Min Temp,Max Temp,Min Humidity,Max Humidity,Min Light,Max Light,Min Soil Moisture,Max Soil Moisture
+0,African Violet (Saintpaulia ionantha),African Violet,16,25,40,70,500,10000,50,80
+1,Aloe Vera,Ghritkumari,13,27,40,50,20000,100000,5,30
+2,Anthurium (Anthurium andraeanum),Anthurium,18,28,60,80,5000,15000,60,80
+3,Areca Palm (Dypsis lutescens),Areca Palm / Butterfly Palm,10,27,50,80,10000,100000,50,80
+4,Asparagus Fern (Asparagus setaceus),Asparagus Fern / Shatavari Fern,15,25,40,60,5000,15000,40,70
+5,Begonia (Begonia spp.),Begonia,15,28,50,70,3000,8000,50,70
+6,Bird of Paradise (Strelitzia reginae),Bird of Paradise,18,30,50,70,10000,50000,40,60
+7,Birds Nest Fern (Asplenium nidus),Bird's Nest Fern,18,27,60,80,2000,8000,60,80
+8,Boston Fern (Nephrolepis exaltata),Boston Fern,15,25,60,80,500,5000,60,80
+9,Calathea,Calathea / Peacock Plant,18,25,60,80,1000,5000,60,80
+10,Cast Iron Plant (Aspidistra elatior),Cast Iron Plant,10,27,30,60,1000,5000,30,60
+11,Chinese evergreen (Aglaonema),Chinese Evergreen,16,28,50,70,1000,5000,40,60
+12,Chinese Money Plant (Pilea peperomioides),Chinese Money Plant,15,25,50,70,3000,8000,40,60
+13,Christmas Cactus (Schlumbergera bridgesii),Christmas Cactus,15,25,40,60,2000,10000,40,60
+14,Chrysanthemum,Guldaudi,10,25,50,80,30000,50000,50,80
+15,Ctenanthe,Ctenanthe,16,26,60,80,1000,5000,50,80
+16,Daffodils (Narcissus spp.),Daffodils,8,20,40,60,8000,15000,40,60
+17,Dracaena,Dracaena,21,27,30,60,1000,20000,10,40
+18,Dumb Cane (Dieffenbachia spp.),Dumb Cane,18,26,60,80,1000,8000,60,80
+19,Elephant Ear (Alocasia spp.),Elephant Ear / Alocasia,18,30,60,80,10000,20000,60,80
+20,English Ivy (Hedera helix),English Ivy,10,24,50,70,5000,10000,50,70
+21,Hyacinth (Hyacinthus orientalis),Hyacinth,10,25,40,60,10000,20000,50,70
+22,Iron Cross begonia (Begonia masoniana),Iron Cross Begonia,15,25,50,70,3000,8000,50,70
+23,Jade plant (Crassula ovata),Jade Plant / Money Plant,13,24,30,50,10000,80000,5,30
+24,Kalanchoe,Kalanchoe / Pattharchatta,15,25,30,60,10000,30000,30,60
+25,Lilium (Hemerocallis),Lilium / Day Lily,10,25,40,70,10000,20000,40,70
+26,Lily of the valley (Convallaria majalis),Lily of the Valley,10,20,50,70,5000,10000,50,70
+27,Money Tree (Pachira aquatica),Money Tree,18,28,60,80,8000,20000,60,80
+28,Monstera Deliciosa (Monstera deliciosa),Monstera / Swiss Cheese Plant,18,30,50,80,8000,15000,50,80
+29,Orchid,Orchid / Orchidea,16,26,60,80,3000,10000,60,80
+30,Parlor Palm (Chamaedorea elegans),Parlor Palm,15,25,50,70,1000,5000,50,70
+31,Peace lily,Peace Lily,18,27,40,80,500,10000,50,80
+32,Poinsettia (Euphorbia pulcherrima),Poinsettia,15,25,40,60,3000,8000,40,60
+33,Polka Dot Plant (Hypoestes phyllostachya),Polka Dot Plant,18,25,50,70,3000,8000,50,70
+34,Polka Dot Plant (Hypoestes phyllostachya),Polka Dot Plant,18,25,50,70,3000,8000,50,70
+35,Ponytail Palm (Beaucarnea recurvata),Ponytail Palm,10,27,30,50,10000,30000,30,50
+36,Pothos (Ivy arum),Money Plant / Pothos,15,30,40,60,50,20000,30,60
+37,Prayer Plant (Maranta leuconeura),Prayer Plant,15,25,60,80,3000,8000,60,80
+38,Rattlesnake Plant (Calathea lancifolia),Rattlesnake Plant,18,26,60,80,2000,5000,60,80
+39,Rubber Plant (Ficus elastica),Rubber Plant,10,29,40,70,1000,20000,30,60
+40,Sago Palm (Cycas revoluta),Sago Palm / King Sago,15,25,40,60,20000,50000,30,50
+41,Schefflera,Umbrella Tree / Schefflera,15,28,40,70,8000,20000,40,60
+42,Snake plant (Sanseviera),Snake Plant / Mother-in-law's Tongue,10,32,40,60,50,20000,5,30
+43,Tradescantia,Wandering Jew,15,25,50,70,8000,15000,40,60
+44,Tulip,Tulip,4,22,30,60,10000,20000,30,50
+45,Venus Flytrap,Venus Flytrap,10,30,50,80,10000,20000,60,80
+46,Yucca,Yucca,15,30,30,60,20000,100000,30,50
+47,ZZ Plant (Zamioculcas zamiifolia),ZZ Plant / Zanzibar Gem,18,29,30,60,50,20000,5,30
