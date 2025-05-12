@@ -46,9 +46,7 @@ app.add_middleware(
 )
 
 # MongoDB setup
-MONGO_URI = os.getenv("MONGODB_URI",
-    "mongodb+srv://sshashankpandit1:RMHXymqDG17mdvVg@cluster0.l0uxeci.mongodb.net/?retryWrites=true&w=majority"
-)
+MONGO_URI = os.getenv("MONGODB_URI")
 client = MongoClient(MONGO_URI)
 db = client["plant_monitoring"]
 sensor_collection    = db["sensor_data"]
